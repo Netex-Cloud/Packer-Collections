@@ -1,0 +1,60 @@
+[submodule "vendor/canonical/packer-maas"]
+	path = vendor/canonical/packer-maas
+	url = https://github.com/canonical/packer-maas
+[submodule "official/AlmaLinux/cloud-images"]
+	path = official/AlmaLinux/cloud-images
+	url = https://github.com/AlmaLinux/cloud-images.git
+[submodule "official/flatcar/flatcar-packer-qemu"]
+	path = official/flatcar/flatcar-packer-qemu
+	url = https://github.com/flatcar/flatcar-packer-qemu
+[submodule "community/marcinbojko/hv-packer"]
+	path = community/marcinbojko/hv-packer
+	url = https://github.com/marcinbojko/hv-packer
+[submodule "community/windowsbox/packerwindows"]
+	path = community/windowsbox/packerwindows
+	url = https://github.com/windowsbox/packerwindows
+[submodule "community/kloia/packer-images"]
+	path = community/kloia/packer-images
+	url = https://github.com/kloia/packer-images
+[submodule "community/digitalocean/droplet-1-clicks"]
+	path = community/digitalocean/droplet-1-clicks
+	url = https://github.com/digitalocean/droplet-1-clicks
+[submodule "community/chef/bento"]
+	path = community/chef/bento
+	url = https://github.com/chef/bento
+[submodule "community/gusztavvargadr/packer.git"]
+	path = community/gusztavvargadr/packer.git
+	url = https://github.com/gusztavvargadr/packer
+[submodule "community/jefftp/wgvpn"]
+	path = community/jefftp/wgvpn
+	url = https://github.com/jefftp/wgvpn
+[submodule "community/Pumba98/proxmox-packer-templates"]
+	path = community/Pumba98/proxmox-packer-templates
+	url = https://github.com/Pumba98/proxmox-packer-templates
+[submodule "community/HariSekhon/Packer-templates"]
+	path = community/HariSekhon/Packer-templates
+	url = https://github.com/HariSekhon/Packer-templates
+[submodule "community/base2Services/ciinabox-bakery"]
+	path = community/base2Services/ciinabox-bakery
+	url = https://github.com/base2Services/ciinabox-bakery
+[submodule "community/andybaran/packer-nomad"]
+	path = community/andybaran/packer-nomad
+	url = https://github.com/andybaran/packer-nomad
+[submodule "community/sudo-kraken/multiplatform-packer-vsphere-actions"]
+	path = community/sudo-kraken/multiplatform-packer-vsphere-actions
+	url = https://github.com/sudo-kraken/multiplatform-packer-vsphere-actions
+[submodule "community/mhutter/hcloud-packer-coreos"]
+	path = community/mhutter/hcloud-packer-coreos
+	url = https://github.com/mhutter/hcloud-packer-coreos
+[submodule "community/workloads/packer-templates.git"]
+	path = community/workloads/packer-templates.git
+	url = https://github.com/workloads/packer-templates
+[submodule "community/andrius/manjaro-hcloud-packer-template"]
+	path = community/andrius/manjaro-hcloud-packer-template
+	url = https://github.com/andrius/manjaro-hcloud-packer-template
+[submodule "community/INSANEWORKS/insaneworks-packer-template"]
+	path = community/INSANEWORKS/insaneworks-packer-template
+	url = https://github.com/INSANEWORKS/insaneworks-packer-template
+[submodule "community/Naman1997/arch-cloud-image"]
+	path = community/Naman1997/arch-cloud-image
+	url = https://github.com/Naman1997/arch-cloud-image
