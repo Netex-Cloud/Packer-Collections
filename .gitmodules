@@ -58,3 +58,24 @@
 [submodule "community/Naman1997/arch-cloud-image"]
 	path = community/Naman1997/arch-cloud-image
 	url = https://github.com/Naman1997/arch-cloud-image
+[submodule "vendor/Megabyte-Labs/packer/archlinux-desktop"]
+	path = vendor/Megabyte-Labs/packer/archlinux-desktop
+	url = https://gitlab.com/megabyte-labs/packer/archlinux-desktop
+[submodule "vendor/Megabyte-Labs/packer/centos-desktop"]
+	path = vendor/Megabyte-Labs/packer/centos-desktop
+	url = https://gitlab.com/megabyte-labs/packer/centos-desktop
+[submodule "vendor/Megabyte-Labs/packer/debian-desktop"]
+	path = vendor/Megabyte-Labs/packer/debian-desktop
+	url = https://gitlab.com/megabyte-labs/packer/debian-desktop
+[submodule "vendor/Megabyte-Labs/packer/fedora-desktop"]
+	path = vendor/Megabyte-Labs/packer/fedora-desktop
+	url = https://gitlab.com/megabyte-labs/packer/fedora-desktop
+[submodule "vendor/Megabyte-Labs/packer/macos-desktop"]
+	path = vendor/Megabyte-Labs/packer/macos-desktop
+	url = https://gitlab.com/megabyte-labs/packer/macos-desktop
+[submodule "vendor/Megabyte-Labs/packer/ubuntu-desktop"]
+	path = vendor/Megabyte-Labs/packer/ubuntu-desktop
+	url = https://gitlab.com/megabyte-labs/packer/ubuntu-desktop
+[submodule "vendor/Megabyte-Labs/packer/windows-desktop"]
+	path = vendor/Megabyte-Labs/packer/windows-desktop
+	url = https://gitlab.com/megabyte-labs/packer/windows-desktop
