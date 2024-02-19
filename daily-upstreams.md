@@ -15,3 +15,4 @@
 | Alpine Linux | https://www.alpinelinux.org/cloud/ 
 | VYOS | https://vyos.net/get/ 
 | Rocky Linux | https://rockylinux.org/cloud-images 
+| Librenms | https://github.com/librenms/packer-builds/releases
